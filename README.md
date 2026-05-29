@@ -129,4 +129,4 @@ server: {
 
 ---
 
-> 관련 문서: [JSP/jQuery 개발자를 위한 React 실전 입문 가이드](../react-for-jsp-jquery-devs.md)
+> 관련 문서: [JSP/jQuery 개발자를 위한 React 실전 입문 가이드](https://www.notion.so/react-for-jsp-jquery-devs-36ffcb916e6f80d4abeecc7d93332c9c?source=copy_link)
